@@ -37,13 +37,13 @@ class App extends Component {
           age={11}
           hairColor={"Black"}
         />
-
-        <MyNewComponent header={"What's up?!"}>
+        {/* code below is from the lessons and exercises leading up to the core assignment */}
+        {/* <MyNewComponent header={"What's up?!"}>
           <p>This is a child</p>
           <p>This is another child</p>
           <p>This is even another child</p>
         </MyNewComponent>
-        <LightSwitch />
+        <LightSwitch /> */}
       </div>
     );
   }
